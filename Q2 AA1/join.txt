@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Corbilla, AA 1 Join</title>
+		
+		<meta charset="UTF-8">
+		<meta name="author" content="Anika Danielle D. Corbilla">
+		<meta name="keywords" content="HTML, CSS, JavaScript">
+		<meta name="revised" content="28-06-2020">
+		<link rel="stylesheet" href="style3.css">
+	</head>
+
+	<body>
+		<nav class="navbar">
+                <ul>
+                  <li><a href="file:///C:/Users/maanc/OneDrive/Desktop/Corbilla_CS3/Q2%20AA1/about.html"class="li2">About</a></li>
+                  <li><a href="file:///C:/Users/maanc/OneDrive/Desktop/Corbilla_CS3/Q2%20AA1/goals.html"class="li2">Goals</a></li>
+				  <li><a href="file:///C:/Users/maanc/OneDrive/Desktop/Corbilla_CS3/Q2%20AA1/join.html"class="li2">Join!</a></li>
+                </ul>
+            </div>		
+		</nav>
+			
+		<main>
+				<div class="background"></div>
+		</main>
+		
+	</body>
+
+</html>

@@ -1,0 +1,100 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: #70a73b;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+	font-size:22px;
+	padding: 15px 30px;
+    display: inline-block; 
+	transition: transform 0.3s ease, background-color 0.3s ease; 
+}
+
+.navbar a:hover{
+	transform: scale(1.2);
+    background-color: #56802d;
+}
+
+.navbar li{
+    float: left;
+}
+body{
+	background-color: #70a73b;
+}
+
+.signup-box{
+	width:360px;
+	height: 620px;
+	margin:auto;
+	background-color: white;
+	border-radius: 3px;
+}
+
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+h4{
+	text-align: center;
+}
+
+form{
+	width: 300px;
+	margin-left: 20px;
+}
+
+form label{
+	display:flex;
+	margin-top:20px;
+	font-size: 18px;
+}
+
+p{
+	text-align: center;
+	padding-top:20px;
+	font-size:15px;
+}
+
+.para-2{ 
+	text-align: center;
+	color:white;
+	font-size: 15px;
+	margin-top: -10px;
+}
+
+.para-2 a{
+	color: white;
+}
+
+.signup-box form input{
+	  width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.signup-box form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.signup-btn {
+    background-color: #70a73b;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.signup-btn:hover {
+    background-color: #56802d;
+}

@@ -1,0 +1,37 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: #70a73b;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+	font-size:22px;
+	padding: 15px 30px;
+    display: inline-block; 
+	transition: transform 0.3s ease, background-color 0.3s ease; 
+}
+
+.navbar a:hover{
+	transform: scale(1.2);
+    background-color: #56802d;
+}
+
+.navbar li{
+    float: left;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Times New Roman", Times, serif;
+	box-sizing: border-box;
+	max-width: 100%;
+	height: auto;
+}

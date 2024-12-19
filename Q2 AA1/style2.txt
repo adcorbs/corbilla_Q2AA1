@@ -1,0 +1,39 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: #48654a;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+	font-size:22px;
+}
+
+.navbar a:hover{
+    background-color: #364a37;
+}
+
+.navbar li{
+    float: left;
+}
+
+.background {
+    background-image: url('more.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
